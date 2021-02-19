@@ -11,8 +11,14 @@ Meu nome é Carlos e sou desenvolvedor front-end.
 - :coffee: Javascript
 - :green_heart: NoSQL
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=caco-jr&show_icons=true&count_private=true" alt="caco-jr" />
-
+<div>
+    <a href="https://github.com/caco-jr?tab=repositories">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caco-jr&layout=compact" width="400" height="200"/>
+    </a>
+    <a href="https://github.com/caco-jr?tab=repositories">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=caco-jr&show_icons=true&count_private=true" alt="caco-jr" />
+    </a>
+</div>
 
 <!--
 **caco-jr/caco-jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
