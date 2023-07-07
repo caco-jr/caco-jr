@@ -31,8 +31,8 @@ Mas não se preocupe, sou mais do que apenas linhas de código! Além de ser um 
 
 ```python
 def contar_piada():
-    print("Por que o JavaScript foi ao terapeuta?")
-    print("Porque ele tinha problemas de escopo!")
+    print("Por que o JavaScript foi à terapia?")
+    print("Porque ele estava passando por muitas promessas não cumpridas!")
     
 contar_piada()
 ```
